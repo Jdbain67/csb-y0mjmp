@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1eee30ca93edb2199e81bf6afa011309",
+    "revision": "59cde89be7a7db4b06239aaf63924197",
     "url": "https://jdbain67.github.io/csb-y0mjmp/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://jdbain67.github.io/csb-y0mjmp/static/css/2.4173a4ba.chunk.css"
   },
   {
-    "revision": "6e09489fb7a0658c905c",
+    "revision": "7d1c6fc1661355e217fb",
     "url": "https://jdbain67.github.io/csb-y0mjmp/static/css/main.45d4fbeb.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://jdbain67.github.io/csb-y0mjmp/static/js/2.bf626c01.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6e09489fb7a0658c905c",
-    "url": "https://jdbain67.github.io/csb-y0mjmp/static/js/main.c53db360.chunk.js"
+    "revision": "7d1c6fc1661355e217fb",
+    "url": "https://jdbain67.github.io/csb-y0mjmp/static/js/main.32ac8cd2.chunk.js"
   },
   {
     "revision": "e4ede925bb4b6e7bcefe",
